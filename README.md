@@ -1,6 +1,6 @@
 # dc_motor_controller
 
-## Introduction
+### Introduction
 The system presented is a simple DC motor speed controller that is frequently used in electric
 vehicles (e-cars/e-bikes etc.). This is an example of a paper replication.
 
